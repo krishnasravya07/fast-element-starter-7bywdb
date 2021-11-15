@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@microsoft/fast-components-msft": "1.4.0",
+    "@microsoft/fast-element": "0.14.0",
+    "@microsoft/fast-web-utilities": "^5.0.2",
+    "lodash-es": "4.17.15",
+    "tslib": "2.0.0"
+  }
+}
